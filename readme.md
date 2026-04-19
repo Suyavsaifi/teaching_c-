@@ -9,7 +9,8 @@ An array is a collection of elements—such as integers or doubles—stored in *
 ---
 
 ### Some Non-Negotiable Characteristics
-To use arrays effectively, you must understand these fundamental rules:
+
+Now before we move ahead, let’s understand some important properties of arrays that we should be aware of. These are the key rules and characteristics that will help us use arrays correctly and confidently.
 
 1.  **Immutable Size:** Once an array is declared, its size is locked. If you declare an array of size 5, you cannot expand it to 6 or 7 later; however, you can update the specific data values held within those slots at any time.
 2.  **Zero-Based Indexing:** In the world of C++, counting begins at **zero**, not one.
